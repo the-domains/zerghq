@@ -2,6 +2,7 @@ name: ZERGHQ
 favicon: null
 layout_spectrum: 0.8366459736134857
 typography_spectrum: 0.10382375842891634
+title: Zerg HQ
 cta:
   domain: null
   bucket: null
