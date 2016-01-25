@@ -1,0 +1,28 @@
+name: ZERGHQ
+favicon: null
+layout_spectrum: 0.8366459736134857
+typography_spectrum: 0.10382375842891634
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.3507695428561419
+  lightness: 0.6316717027220875
+  saturation: 0.5688314130529761
+  rhythmicContrast: 0.17169356578961015
+purpose: []
