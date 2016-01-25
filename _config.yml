@@ -1,7 +1,7 @@
 name: ZERGHQ
 favicon: null
 layout_spectrum: 0.8366459736134857
-typography_spectrum: 0.10382375842891634
+typography_spectrum: 0.54692
 title: Zerg HQ
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#feefdc'
+    - '#c0b2a7'
+    - '#1b1110'
+    - '#43322a'
+    - '#8a7059'
   brandStrength: 0.3507695428561419
   lightness: 0.6316717027220875
   saturation: 0.5688314130529761
